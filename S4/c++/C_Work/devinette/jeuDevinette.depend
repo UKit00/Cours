@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1523996707 source:c:\users\kekeli\desktop\nouveau dossier\projetsc++\jeudevinette\main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<vector>
+	<math.h>
+

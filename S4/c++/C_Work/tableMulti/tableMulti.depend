@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1678446864 source:c:\users\joshua\desktop\semestre4\c++\c_work\tablemulti\main.cpp
+	<iostream>
+	<conio.h>
+	<iomanip>
+	<cstdlib>
+
