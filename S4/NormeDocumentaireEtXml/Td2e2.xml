@@ -1,0 +1,28 @@
+<?xml version="1.0" enconding="utf-8" ?>
+<bibliotheque>
+    <livre>
+        <titre>L'enfant noir</titre>
+        <auteurs>
+            <auteur>
+                <nom>Camara LAYE</nom>
+                <nationalite>Afro</nationalite>
+            </auteur>
+        </auteurs>
+        <editeur>Pocket</editeur>
+        <anneeEdition>2003</anneeEdition>
+        <nombrePage>129</nombrePage>
+        <parties>
+            <part>
+                <numPage>2</numPage>
+                <titre>Poeme</titre>
+            </part>
+        </parties>
+        <chapitres>
+            <chap>
+                <numPage>3</numPage>
+                <titre>La case de ma mere</titre>
+            </chap>
+        </chapitres>
+    </livre>
+
+</bibliotheque>
