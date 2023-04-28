@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1680260274 source:c:\users\joshua\desktop\semestre4\c++\c_work\facture2\main.cpp
+	<iostream>
+	<string>
+	<vector>
+
