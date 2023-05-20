@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE biblio SYSTEM "file:/C:/Users/Joshua/Desktop/Semestre4/NormeDocumentaireEtXml/biblio.dtd">
+<?xml-stylesheet type="text/xsl" href="biblio.xsl"?>
+<biblio>
+    <etudiant code="E1" nom="Hassani" prenom="MOhmed" age="23">
+        <livre id="L1" titre="Java" dateEmprunt="2022-11-11" rendu="Non"/>
+        <livre id="L2" titre="XML" dateEmprunt="2022-12-11" rendu="Oui"/>
+    </etudiant>
+    <etudiant code="E2" nom="Ibra" prenom="Amina" age="21">
+        <livre id="L1" titre="Java" dateEmprunt="2022-11-11"/>
+    </etudiant>
+</biblio>
